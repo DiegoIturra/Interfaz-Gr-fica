@@ -1,7 +1,7 @@
 # Interfaz-Gráfica
 interfaz gráfica realizada en python para proyecto de ingeniería de software I
 
-- Pasos para ejecutar código
+###Pasos para ejecutar código
 - 1- instalar libreria psycopg2 para poder interactuar con el gestor de base de datos postgresQL
 - 2- instalar libreria grafica PyQt5 para poder ejecutar los modulos gráficos+
 - 3- ejecutar archivo login.py
