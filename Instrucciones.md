@@ -1,4 +1,4 @@
-# Interfaz-Gr-fica
+# Interfaz-Gráfica
 interfaz gráfica realizada en python para proyecto de ingeniería de software I
 
 Pasos para ejecutar código
